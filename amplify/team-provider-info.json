@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-meribachat-dev-162239-authRole",
+      "UnauthRoleArn": "arn:aws:iam::346675469234:role/amplify-meribachat-dev-162239-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::346675469234:role/amplify-meribachat-dev-162239-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-meribachat-dev-162239-deployment",
+      "UnauthRoleName": "amplify-meribachat-dev-162239-unauthRole",
+      "StackName": "amplify-meribachat-dev-162239",
+      "StackId": "arn:aws:cloudformation:us-east-1:346675469234:stack/amplify-meribachat-dev-162239/fb4add10-d373-11ec-821b-0e987b47ea9f",
+      "AmplifyAppId": "d39zwh7wi36am"
+    },
+    "categories": {
+      "function": {
+        "UserFunc": {
+          "deploymentBucketName": "amplify-meribachat-dev-162239-deployment",
+          "s3Key": "amplify-builds/UserFunc-48696370314a6b4e6b78-build.zip"
+        }
+      },
+      "auth": {
+        "meribachat55fb23b7": {}
+      }
+    }
+  }
+}
